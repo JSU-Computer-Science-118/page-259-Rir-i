@@ -29,7 +29,7 @@ int main()
   
   if (a == 0)
   {
-    cout << "invalid entry"
+    cout << "invalid entry";
     }
     
    else if (d == 0)
